@@ -1,0 +1,9 @@
+* {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+#mainImage {
+    height: 100px;
+    width: 100px;
+}
