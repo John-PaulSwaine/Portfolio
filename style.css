@@ -1,9 +1,15 @@
 * {
     min-height: 100vh;
     min-width: 100vw;
+    background-color: blueviolet;
 }
 
 #mainImage {
     height: 100px;
     width: 100px;
+}
+
+#head {
+    background-color: aqua;
+    text-decoration: solid black;
 }
