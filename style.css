@@ -9,6 +9,7 @@
 #header {
     background-color: burlywood;
     font-family: Sevillana, cursive;
+    font-weight: bold;
 }
 
 h1 {
@@ -17,11 +18,13 @@ h1 {
 
 button {
     background-color: aqua;
+    font-weight: bold;
 }
 
 h2, h3 {
     text-decoration: underline solid aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
+    font-weight: bold;
 }
 
 #main {
