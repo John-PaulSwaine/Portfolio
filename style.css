@@ -24,8 +24,12 @@ h2, h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
 }
 
-p {
+#main {
     /* color: aqua; */
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+#footer {
+    font-size: 10px;
 }
