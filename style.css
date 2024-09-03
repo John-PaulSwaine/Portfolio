@@ -1,15 +1,18 @@
 * {
-    min-height: 100vh;
-    min-width: 100vw;
+    max-height: 100vh;
+    max-width: 100vw;
     background-color: blueviolet;
 }
 
-#mainImage {
-    height: 100px;
-    width: 100px;
+#header {
+    background-color: burlywood ;
 }
 
-#head {
-    background-color: aqua;
-    text-decoration: solid black;
+#name {
+    background-color: burlywood;
+}
+
+h1, h2 {
+    color: black;
+    text-decoration: solid black 2px;
 }
