@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
 * {
-    max-height: 100vh;
-    max-width: 100vw;
+    /* max-height: 100vh;
+    max-width: 100vw; */
     background-color: blueviolet;
 }
 
