@@ -21,6 +21,11 @@ button {
     font-weight: bold;
 }
 
+.dice {
+    display: flex;
+    flex-direction: row;
+}
+
 h2, h3 {
     text-decoration: underline solid aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
