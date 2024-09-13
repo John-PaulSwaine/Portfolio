@@ -1,44 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
-* {
-    /* max-height: 100vh;
-    max-width: 100vw; */
-    background-color: blueviolet;
+* {background-color: blueviolet;
 }
-
 #header {
     background-color: burlywood;
     font-family: Sevillana, cursive;
     font-weight: bold;
 }
-
 h1 {
     font-size: 40px;
 }
-
 button {
     background-color: aqua;
     font-weight: bold;
 }
-
-.dice {
-    display: flex;
-    flex-direction: row;
-}
-
 h2, h3 {
     text-decoration: underline solid aqua;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
     font-weight: bold;
 }
-
 #main {
-    /* color: aqua; */
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
-
 #footer {
     font-size: 10px;
-    /* padding-top: 60px; */
 }
