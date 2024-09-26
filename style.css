@@ -13,6 +13,7 @@ h1 {
 button {
     background-color: aqua;
     font-weight: bold;
+    margin: 10px;
 }
 h2, h3 {
     text-decoration: underline solid aqua;
